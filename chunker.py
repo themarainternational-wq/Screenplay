@@ -1,5 +1,5 @@
 """
-chunker.py
+core/chunker.py
 ----------
 Splits a list of (block_type, text) blocks into ordered chunks that stay
 under a safe character budget for the translation/TTS models, without
