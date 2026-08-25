@@ -1,5 +1,5 @@
 """
-extract.py
+core/extract.py
 ----------
 Reads PDF / DOCX / TXT files and turns them into an ordered list of
 "blocks": (block_type, text) tuples.
