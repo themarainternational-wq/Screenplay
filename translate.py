@@ -1,5 +1,5 @@
 """
-translate.py
+core/translate.py
 ------------
 Tamil <-> English translation using small, CPU-friendly OPUS-MT models,
 dynamically quantized to int8 - built to run inside Streamlit Community
