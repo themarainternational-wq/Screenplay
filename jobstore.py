@@ -1,5 +1,5 @@
 """
-jobstore.py
+core/jobstore.py
 -----------
 Minimal on-disk job persistence, so a long translate or text-to-speech
 job can survive a ZeroGPU allocation ending, a dropped connection, the
