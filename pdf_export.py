@@ -1,5 +1,5 @@
 """
-pdf_export.py
+core/pdf_export.py
 -------------
 Turns a list of (block_type, text) blocks into a properly formatted PDF.
 Automatically embeds the (free, open-source) Noto Sans Tamil font
