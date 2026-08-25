@@ -1,5 +1,5 @@
 """
-docx_export.py
+core/docx_export.py
 --------------
 Turns a list of (block_type, text) blocks into a properly formatted
 .docx file - screenplay-style, not one giant paragraph.
